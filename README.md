@@ -1,7 +1,5 @@
-**Repository Name: Time-Series-Analysis-Flights**
+# ARIMA-SARIMAX-flights-Time-Series-Analysis
 
-
-# Time Series Analysis: Flights Dataset
 
 This repository contains a machine learning project focused on time series analysis using the Seaborn dataset *flights*. The project primarily utilizes ARIMA (AutoRegressive Integrated Moving Average) and SARIMAX (Seasonal AutoRegressive Integrated Moving Average with eXogenous regressors) models for forecasting and analyzing the flight data.
 
